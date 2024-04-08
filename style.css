@@ -1,4 +1,8 @@
 body{
     color: whitesmoke;
+    background-image: url("background.jpeg");
     background-color: #202020;
+}
+h1{
+    color: grey;
 }
