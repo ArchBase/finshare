@@ -1,17 +1,18 @@
 body{
     color: whitesmoke;
-    background-image: url("background.jpeg");
     background-color: #202020;
 }
 header{
     display: grid;
     grid-template-columns: auto auto;
+    background-image: url("money-bg.jpeg");
 }
 .first-img{
     margin: 40pt 0pt 0pt 80pt;
 }
 h1{
     font-size: 90pt;
+    color: #90fc03;
 }
 h3{
     font-size: 30pt;
@@ -20,6 +21,6 @@ h4{
     font-size: 24pt;
 }
 p{
-    font-size: 12pt;
+    font-size: 20pt;
 }
 
