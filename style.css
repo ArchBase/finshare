@@ -4,7 +4,11 @@ body{
     background-color: #202020;
 }
 header{
-    margin-left: 45pt;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.first-img{
+    margin: 40pt 0pt 0pt 80pt;
 }
 h1{
     font-size: 90pt;
@@ -19,7 +23,3 @@ p{
     font-size: 12pt;
 }
 
-#grid-sect{
-    display: grid;
-    grid-template-columns: auto auto;
-}
