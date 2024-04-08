@@ -7,12 +7,8 @@ header{
     grid-template-columns: auto auto;
     background-image: url("money-bg.jpeg");
 }
-.first-img{
-    margin: 40pt 0pt 0pt 80pt;
-}
 h1{
     font-size: 90pt;
-    color: #90fc03;
 }
 h3{
     font-size: 30pt;
@@ -22,5 +18,19 @@ h4{
 }
 p{
     font-size: 20pt;
+}
+.first-img{
+    margin: 40pt 0pt 0pt 80pt;
+}
+.title-cls{
+    color: #90fc03;
+    animation-name: anim;
+    animation-duration: 2s;
+}
+
+@keyframes anim{
+    0% {opacity: 0;}
+    50% {opacity: 0.5;}
+    100% {opacity: 1;}
 }
 
