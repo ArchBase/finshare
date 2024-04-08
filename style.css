@@ -12,6 +12,14 @@ h1{
 h3{
     font-size: 30pt;
 }
+h4{
+    font-size: 24pt;
+}
 p{
     font-size: 12pt;
+}
+
+#grid-sect{
+    display: grid;
+    grid-template-columns: auto auto;
 }
