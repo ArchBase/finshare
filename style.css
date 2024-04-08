@@ -24,8 +24,7 @@ button{
     font-size: 20pt;
     color: white;
     background-color: #3477eb;
-    outline: 2px dotted;
-    border-radius: 6pt;
+    border-radius: 4pt;
 }
 button:hover{
     background-color: blue;
