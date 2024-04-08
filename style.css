@@ -19,6 +19,29 @@ h4{
 p{
     font-size: 20pt;
 }
+button{
+    margin-left: 60pt;
+    font-size: 20pt;
+    color: white;
+    background-color: #3477eb;
+    outline: 2px dotted;
+    border-radius: 6pt;
+}
+button:hover{
+    background-color: blue;
+}
+.ribbon{
+    align-content: center;
+    text-align: center;
+    background-color: #044a10;
+    animation-name: anim;
+    animation-duration:2s;
+}
+.ribbon2{
+    align-content: center;
+    text-align: center;
+    background-color: #044a10;
+}
 .first-img{
     margin: 40pt 0pt 0pt 80pt;
 }
