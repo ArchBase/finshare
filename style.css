@@ -1,8 +1,11 @@
 body{
     color: whitesmoke;
+    background-image: url("background.jpeg");
     background-color: #202020;
 }
-
 header{
     margin-left: 24pt;
+}
+h1{
+    color: grey;
 }
